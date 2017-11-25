@@ -12,6 +12,10 @@ Embedded JavaScript templates
 $ npm install ejs
 ```
 
+## WARNING -- Text Fork.
+This is my attempt at putting back the filter functionality of EJS 1.0 `<%: %>`.
+Currently still under development. For Production use, please use [Mater Repo](https://github.com/mde/ejs) I forked from.  
+
 ## Features
 
   * Control flow with `<% %>`
